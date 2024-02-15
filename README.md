@@ -3,6 +3,7 @@
 - 🌱 I’m currently pursuing B.E.Computer Science and Engineering @ Sathyabama University 
 - 📫 How to reach me : krishithaaravind@gmail.com
 - 😄 Pronouns: she/her
+- LinkdIn: https://www.linkedin.com/in/krishitha-aravind-902a71206/
 
 <!---
 KrishithaAravind/KrishithaAravind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
