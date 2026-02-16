@@ -1,5 +1,5 @@
-# Krishitha-Aravind
-# 💫 About Me:
+# Krishitha-Aravind# 
+💫 About Me:
 MSc Business Analytics (UCD Smurfit, 2025–26) 🎓 | Tutor @ UCD Quinn 👩‍🏫 | Aspiring Business Analyst (Ops/BI) ✈️📊 | SQL • Power BI • Python 🐍<br><br><br>I’m an MSc Business Analytics student at UCD Michael Smurfit Graduate Business School (2025–26) 🎓 with a Computer Science & Engineering background 💻 and experience as a Tutor for Digital Technologies in Business (UCD Quinn) 👩‍🏫. I’m targeting Business Analyst / Data Analyst roles focused on operations and decision support ✈️⚙️—especially in aviation, mobility, and performance-driven industries—where strong visualisation and clear recommendations drive outcomes 📊. My core toolkit is SQL 🧠, Power BI 📈, and Python (pandas) 🐍, and I’m building end-to-end analytics case studies (data → model → dashboard → narrative) to demonstrate analytical thinking, leadership, and stakeholder communication 🎯.
 
 
